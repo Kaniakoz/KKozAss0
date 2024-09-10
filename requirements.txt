@@ -1,8 +1,1 @@
-"""
-The automatic tests are set up inside the folder .github/workflows, which you should not touch or tamper with. The tests will be checking:
-
-That the script main.py abides by the Python flake8 style requirements
-That the script main.py runs successfully and print exactly only the content of the array
-That you use the relevant version of Numpy, as indicated above
-"""
 numpy = 1.26.1
